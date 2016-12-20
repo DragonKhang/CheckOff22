@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Check Off 22</string>
+    <string name="convert_from_text">Convert From</string>
+    <string name="default_teaspoon_value">1.0 teaspoon</string>
+    <string name="unit_type_spinner"> Item 1</string>
+
+    <string-array name="conversion_types">
+
+        <item>teaspoon</item>
+
+        <item>tablespoon</item>
+
+        <item>cup</item>
+
+        <item>ounce</item>
+
+        <item>pint</item>
+
+        <item>quart</item>
+
+        <item>gallon</item>
+
+        <item>pound</item>
+
+        <item>milliliter</item>
+
+        <item>liter</item>
+
+        <item>milligram</item>
+
+        <item>kilogram</item>
+
+    </string-array>
+
+
+
+</resources>
