@@ -62,7 +62,7 @@
         />
 
     <!-- You need the min Android version set to 14 in build.gradle -->
-    041
+    
     <GridLayout
 
         android:layout_width="fill_parent"
